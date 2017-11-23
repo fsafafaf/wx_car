@@ -4,7 +4,7 @@
     "pages/demo/demo",
     "pages/stories/index",
     "pages/stories/show",
-    "pages/vehices/show"
+    "pages/vehicles/show"
   ],
   "window": {
     "navigationBarTitleText": "宁皓汽车",

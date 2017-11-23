@@ -7,3 +7,14 @@
 @import 'styles/spec.wxss';
 @import 'styles/action.wxss';
 @import 'styles/story.wxss';
+
+page {
+    background: #f8f8f8;
+}
+
+.section {
+    /* rem rpx %    vh,vw相对于viwport */
+    /* 100vh 表示占满一屏 */
+    height: 100vh;
+    background: #333333;
+}

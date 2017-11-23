@@ -1,0 +1,7 @@
+<swiper class="section hero white">
+    <block wx:for="{{slides}}" wx:key="id">
+    <swiper-item>
+        <text>{{item.header}}</text>
+    </swiper-item>
+    </block>
+</swiper>
